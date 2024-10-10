@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class FollowPlayer : MonoBehaviour
 {
-    private Vector3 offset = new Vector3(20.9f, 0, 0.6f);
+    private Vector3 offset = new Vector3(0, 6.72f, -9.65f);
     public GameObject player;
     
 
