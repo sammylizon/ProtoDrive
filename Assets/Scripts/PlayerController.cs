@@ -30,3 +30,6 @@ public class PlayerController : MonoBehaviour
         transform.Rotate(Vector3.up, turnSpeed * horizontalInput * Time.deltaTime);
     }
 }
+
+// Completed the Challenge but can add Bonus challenges : https://learn.unity.com/tutorial/bonus-features-1-share-your-work#
+// Add more obsatcles, vehicles moving towards, camera switch FPS and Local Multiplayer 
