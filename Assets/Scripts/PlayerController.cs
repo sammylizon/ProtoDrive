@@ -9,6 +9,7 @@ public class PlayerController : MonoBehaviour
     public float horizontalInput;
     public float forwardInput;
     public float turnSpeed;
+    
     // Start is called before the first frame update
     void Start()
     {
